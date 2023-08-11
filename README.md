@@ -7,9 +7,8 @@ The process evaluate the Data Set of housing classification through diferent ste
 1. Data cleaning, mining & transformation
 2. Data engineering & Data Science
 3. Data analysis
-4. Data Visualization
-5. AI and machine learning
-6. Final recomendations
+4. AI and machine learning
+5. Final recomendations
 
 This project showcases a data science work that analyzes the housing properties data in Paris, the capital and most populous city of France. The project aims to explore the trends, patterns, and insights from the data, such as the distribution of prices, sizes, locations, and types of properties. The project also demonstrates how to apply various data science techniques, such as data cleaning, visualization, modeling, and prediction, to the data. 
 
