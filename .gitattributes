@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+app/* linguist-documentation=false
+app/* linguist-vendored
+
+*.extension linguist-detectable=true
